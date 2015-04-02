@@ -1,0 +1,18 @@
+{
+  "name": "Recapture",
+  "version": "1.0.0",
+  "description": "Tool for fight cart abandoon",
+  "dependencies": {
+    "restify": "latest",
+    "mongoose": "3.8.8",
+    "forever-monitor": "1.5.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "laravel-elixir": "*"
+  },
+  "scripts": {},
+  "author": "Luciano Vandi",
+  "license": "MIT",
+  "private": true
+}
