@@ -144,6 +144,12 @@ return [
 		'App\Providers\ConfigServiceProvider',
 		'App\Providers\EventServiceProvider',
 		'App\Providers\RouteServiceProvider',
+            
+                /*
+                 * Additional Service Provicers...
+                 */
+                'Jenssegers\Mongodb\MongodbServiceProvider',
+                'Jenssegers\Mongodb\Auth\PasswordResetServiceProvider',
 
 	],
 
